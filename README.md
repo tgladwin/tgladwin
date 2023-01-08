@@ -1,4 +1,4 @@
-# Thomas Gladwin 
+# T. Gladwin 
 ## Software & System Engineer 
 
 - 🔭 I’m currently working on developing python code 
